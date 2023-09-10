@@ -1,8 +1,3 @@
-/* header {
-  position: fixed;
-  left: 0;
-  right: 0;
-} */
 .nav-item {
   padding: 0 0.625rem;
   transition: all 200ms linear;
@@ -177,4 +172,21 @@
 .explore-food .card span del {
   color: rgb(168, 150, 150);
   margin-left: 0.5rem;
+}
+/* .......................................................................... */
+
+.ex-head {
+  color: #eee;
+}
+
+.testimonial-section {
+  background-color: #e11d48;
+}
+
+.testimonial-section .carousel-item {
+  padding: 5rem 3.125rem;
+  background-color: #eee;
+  border-radius: 0.9375rem;
+  text-align: center;
+  height: 103vh;
 }
