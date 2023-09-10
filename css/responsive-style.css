@@ -19,7 +19,12 @@
   .top-banner {
     padding: 9.375rem 0 9.375rem;
   }
+
+
+
 }
+
+/* .............................................. */
 
 @media (max-width: 767px) {
   h1 {
@@ -32,5 +37,11 @@
 
   .top-banner {
     padding: 10.875rem 0 9.375;
+  }
+
+  
+  .story-section{
+    height:auto;
+    padding: 3rem 0;
   }
 }

@@ -8,6 +8,10 @@
   transition: all 200ms linear;
 }
 
+.nav-item {
+  /* border: 2px solid rebeccapurple; */
+}
+
 .nav-link {
   font-size: 0.9375rem;
   font-weight: 600;
@@ -146,4 +150,31 @@
 
 .btn-hover:hover {
   opacity: 0.8;
+}
+
+/* .......................................................... */
+
+.explore-food .card {
+  border: none;
+  background-color: transparent;
+  border-radius: 0.9375rem;
+}
+
+.explore-food .card img {
+  border-radius: 0.9375rem;
+  object-fit: cover;
+}
+
+.explore-food .card span {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #e11d48;
+  padding-bottom: 1rem;
+  border-bottom: 0.0625rem solid #eee;
+}
+
+.explore-food .card span del {
+  color: rgb(168, 150, 150);
+  margin-left: 0.5rem;
 }
