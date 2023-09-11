@@ -1,17 +1,11 @@
-/* header {
-  position: fixed;
-  left: 0;
-  right: 0;
-} */
-
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-body{
-  width: 100%;
+body {
+  max-width: 100%;
 }
 
 .nav-item {
@@ -62,7 +56,7 @@ body{
 }
 
 .top-banner {
-  width: 100%;
+  max-width: 100%;
   background: url("../01_Foodies_images/images/bg/bg-1.jpg") no-repeat center;
   background-size: cover;
   padding: 16.875rem 0 9.375;
@@ -136,7 +130,7 @@ body{
   padding: 100px 0;
   text-align: center;
   max-width: 100%;
-  height: 28.125rem;
+  max-height: 28.125rem;
 }
 
 .story-section h2 {
@@ -190,45 +184,21 @@ body{
   margin-left: 0.5rem;
 }
 
-/* 
-#testimonial{
-  background-color: #f43f5e;
-  height: 110vh;;
-}
-
-.ex-head{
-  color: #eee;
-} */
-
 .testimonial-section {
   background-color: #a01130;
 }
 
 .testimonial-section .carousel-item {
-  /* margin-top: 2rem; */
   padding: 5rem 3.125rem;
   background-color: #eee;
   border-radius: 0.9375rem;
   text-align: center;
-  height: 105vh;
-  /* width: 50%; */
+  max-height: 105vh;
 }
 
-.ex-head1{
-  color:#e4d1d1;
+.ex-head1 {
+  color: #e4d1d1;
 }
-/* 
-.testimonial-section .carousel-caption img{
-  max-width: 5rem;
-  border-radius: 50%;
-  padding: 0.3125rem;
-} */
-
-/* .testimonial-section .carousel-item .carousel-caption p{
-  font-size: 1.3125rem;
-  line-height: 2.0625rem;
-  padding: 1 11% 0.0625rem;
-} */
 
 /* ................................................................. */
 
@@ -238,22 +208,21 @@ body{
   margin-right: 0.3125rem;
 }
 
-
 h3,
 h5,
 h6 {
   color: #8d132e;
 }
 
-.h2{
+.h2 {
   color: #eee;
 }
 
-.fre{
+.fre {
   color: #8d132e;
 }
 
-.book-food{
+.book-food {
   max-width: 100%;
   background: url("../01_Foodies_images/images/bg/bg-3.jpg");
   background-size: cover;
@@ -262,19 +231,18 @@ h6 {
   padding: 4.375rem 0;
 }
 
-
 /* ...................................................... */
 
-.hurry{
+.hurry {
   color: #8d132e;
 }
 
-.newsletter{
+.newsletter {
   max-width: 55%;
-  margin: 0 auto;;
+  margin: 0 auto;
 }
 
-.newsletter .form-control{
+.newsletter .form-control {
   max-height: 3.225rem;
   padding: 0 1.25rem;
   font-size: 0.875rem;
@@ -288,39 +256,34 @@ h6 {
 }
 
 .newsletter .form-control:hover,
-.newsletter .form-control:focus{
+.newsletter .form-control:focus {
   outline: none;
   box-shadow: none;
   border-color: #8d132e;
 }
 
-
 /* ............................................................ */
 
-
-
-.footer{
+.footer {
   background-color: #a01130;
-
 }
 
-.footer .footer-link{
+.footer .footer-link {
   font-size: 1rem;
   color: white;
   padding: 0 1.875rem;
 }
 
-.footer .footer-link a:hover{
+.footer .footer-link a:hover {
   color: white !important;
 }
 
-.footer a i{
+.footer a i {
   font-size: 1.5rem;
   color: white;
   padding: 0 1rem;
 }
 
-.col-md-12 .footer-link:hover{
+.col-md-12 .footer-link:hover {
   color: #a01130;
 }
-
