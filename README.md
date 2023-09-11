@@ -3,11 +3,19 @@
 Foodies Project Description
 
 
+
+
 #Overview
+
+
 
 The Foodies project is a modern and responsive website that caters to food enthusiasts, offering a delightful online experience. This project showcases the use of web technologies, including HTML, CSS, and JavaScript, along with popular frameworks like Bootstrap to create an engaging and visually appealing platform. Foodies is designed to provide information about the world of food, including recipes, reviews, and more.
 
+
+
 #Key Features
+
+
 
 
 #1. Navigation :- 
