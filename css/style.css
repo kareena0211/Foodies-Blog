@@ -190,7 +190,7 @@
 } */
 
 .testimonial-section {
-  background-color: #e11d48;
+  background-color: #a01130;
 }
 
 .testimonial-section .carousel-item {
@@ -201,6 +201,10 @@
   text-align: center;
   height: 105vh;
   /* width: 50%; */
+}
+
+.ex-head1{
+  color:#e4d1d1;
 }
 /* 
 .testimonial-section .carousel-caption img{
@@ -280,16 +284,34 @@ h6 {
 }
 
 
+/* ............................................................ */
 
 
 
+.footer{
+  background-color: #a01130;
 
+}
 
+.footer .footer-link{
+  font-size: 1rem;
+  color: white;
+  padding: 0 1.875rem;
+}
 
+.footer .footer-link a:hover{
+  color: white !important;
+}
 
+.footer a i{
+  font-size: 1.5rem;
+  color: white;
+  padding: 0 1rem;
+}
 
-
-
+.col-md-12 .footer-link:hover{
+  color: #a01130;
+}
 
 
 
