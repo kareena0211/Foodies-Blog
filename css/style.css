@@ -4,9 +4,11 @@
   box-sizing: border-box;
 }
 
-body {
-  max-width: 100%;
+main{
+  /* border:  5px solid red; */
+  max-width: 98.9%;
 }
+
 
 .nav-item {
   padding: 0 0.625rem;
@@ -243,7 +245,7 @@ h6 {
 }
 
 .newsletter .form-control {
-  max-height: 3.225rem;
+  height: 3.225rem;
   padding: 0 1.25rem;
   font-size: 0.875rem;
   width: 100%;
