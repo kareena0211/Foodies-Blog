@@ -15,21 +15,21 @@ The website features a responsive navigation bar that collapses on smaller scree
 Users can navigate to various sections like Home, About Us, Explore Foods, Reviews, and FAQ.
 
 
-#2. Home Section
+#2. Home Section :- 
 The homepage welcomes visitors with a captivating image and a compelling slogan: "Good choices are good investments."
 It encourages users to explore and order food right away, with visually appealing buttons.
 
 
-#3. Counter Section
+#3. Counter Section :- 
 An engaging section displays animated counters highlighting key statistics such as savings, photos, rockets, and globes.
 
 
-#4. About Section
+#4. About Section :- 
 The About Us section introduces the website's mission of making real food from the best ingredients.
 It presents information about the food preparation process and encourages users to learn more.
 
 
-#5. Story Section
+#5. Story Section :- 
 This section tells the story of food's importance in people's lives, accompanied by an inspiring quote.
 Users can dive deeper into the narrative by clicking "Read More."
 
@@ -39,32 +39,32 @@ Users can explore a selection of mouthwatering dishes presented in cards.
 Each dish includes an image, preparation time, pricing details, and an option to order.
 
 
-#7. Testimonial Section
+#7. Testimonial Section :- 
 The Testimonial section features user reviews with images and quotes, adding credibility to the website.
 Users can slide through different testimonials for a more immersive experience.
 
 
-#8. FAQ Section
+#8. FAQ Section :- 
 Frequently Asked Questions are presented in an easy-to-read format, providing answers to common queries.
 Users can quickly find information about the freshness of the bread, ingredients, online ordering, and future store openings.
 
 
-#9. Book Food Section
+#9. Book Food Section :- 
 This section invites users to learn more about the website's commitment to baking fresh food daily.
 A "Learn More" button directs users to explore further.
 
 
-#10. Newsletter Section
+#10. Newsletter Section :- 
 The Newsletter section encourages users to subscribe for a 25% discount, using a simple email submission form.
 It emphasizes the limited-time offer without requiring credit card information.
 
 
-#11. Footer
+#11. Footer :- 
 The footer contains important links such as Registration, Forum, Affiliate, and FAQ.
 Social media icons link to the website's social profiles.
 
 
-# Technologies Used
+# Technologies Used :- 
 
 
 #HTML: Structured the web page content.
