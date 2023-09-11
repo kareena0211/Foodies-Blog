@@ -189,11 +189,11 @@
   color: #eee;
 } */
 
-.testimonial-section{
+.testimonial-section {
   background-color: #e11d48;
 }
 
-.testimonial-section .carousel-item{
+.testimonial-section .carousel-item {
   /* margin-top: 2rem; */
   padding: 5rem 3.125rem;
   background-color: #eee;
@@ -214,6 +214,75 @@
   line-height: 2.0625rem;
   padding: 1 11% 0.0625rem;
 } */
+
+/* ................................................................. */
+
+.faq h4 span {
+  color: #8d132e;
+  font-size: 1.875rem;
+  margin-right: 0.3125rem;
+}
+
+
+h3,
+h5,
+h6 {
+  color: #8d132e;
+}
+
+.h2{
+  color: #eee;
+}
+
+.fre{
+  color: #8d132e;
+}
+
+.book-food{
+  width: 100%;
+  background: url("../01_Foodies_images/images/bg/bg-3.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 0 71.9125px;
+  padding: 4.375rem 0;
+}
+
+
+/* ...................................................... */
+
+.hurry{
+  color: #8d132e;
+}
+
+.newsletter{
+  width: 55%;
+  margin: 0 auto;;
+}
+
+.newsletter .form-control{
+  height: 3.225rem;
+  padding: 0 1.25rem;
+  font-size: 0.875rem;
+  width: 100%;
+  border: none;
+  border-radius: 0;
+  background: transparent;
+  border: 0.1875rem solid rgb(168, 150, 150);
+  color: black;
+  font-weight: 700;
+}
+
+.newsletter .form-control:hover,
+.newsletter .form-control:focus{
+  outline: none;
+  box-shadow: none;
+  border-color: #8d132e;
+}
+
+
+
+
+
 
 
 
