@@ -31,7 +31,6 @@ document.addEventListener("DOMContentLoaded", () => {
       }, step);
   }
   counter("count1", 0, 1234, 3432);
-
   counter("count2", 123, 1334, 2432);
   counter("count3", 0, 1234, 1432);
   counter("count4", 0, 4324, 3432);
