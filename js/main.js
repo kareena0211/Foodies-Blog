@@ -7,13 +7,17 @@ window.onscroll = function () {
   }
 };
 
-let navbar = document.querySelector(".nav-link");
+// .........................................................
+
+let navbarLinks = document.querySelectorAll(".nav-link");
 let navCollapse = document.querySelector(".navbar-collapse.collapse");
-navbar.forEach(function (a) {
-  a.addEventListener("click", function () {
+
+navbarLinks.forEach(function (link) {
+  link.addEventListener("click", function () {
     navCollapse.classList.remove("show");
   });
 });
+// ..............................................
 
 document.addEventListener("DOMContentLoaded", () => {
   function counter(id, start, end, duration) {
@@ -33,5 +37,5 @@ document.addEventListener("DOMContentLoaded", () => {
   counter("count1", 0, 1234, 3432);
   counter("count2", 123, 1334, 2432);
   counter("count3", 0, 1234, 1432);
-  counter("count4", 0, 4324, 3432);
+  counter("count4", 0, 4324, 2432);
 });
